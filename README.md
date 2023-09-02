@@ -1,2 +1,4 @@
 # first_project
-learning git
+Learning git and github
+<br>
+owner - Karan Mali
